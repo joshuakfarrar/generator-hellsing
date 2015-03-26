@@ -1,0 +1,17 @@
+{
+  "name": "generator-hellsing",
+  "version": "0.1.0",
+  "description": "A micro-framework for graphical JavaScript apps",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.18.10"
+  },
+  "author": "Joshua K. Farrar <joshua@sent1nel.me>",
+  "license": "MIT"
+}
