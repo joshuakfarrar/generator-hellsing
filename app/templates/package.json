@@ -1,5 +1,5 @@
 {
-  "name": "percolation",
+  "name": "helling-app",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "express": "~4.9.0",
+    "gulp": "^3.8.11",
+    "gulp-bower": "0.0.10",
+    "del": "^1.1.1",
     "body-parser": "~1.8.1",
     "cookie-parser": "~1.3.3",
     "morgan": "~1.3.0",
