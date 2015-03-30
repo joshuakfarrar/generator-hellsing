@@ -4,10 +4,6 @@ var path = require('path');
 var yeoman = require('yeoman-generator');
 
 var HellsingGenerator = yeoman.generators.Base.extend({
-  init: function() {
-    console.log("set up complete!");
-  },
-
   generate: function() {
     this.sourceRoot(path.join(__dirname, './templates'));
 
