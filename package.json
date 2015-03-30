@@ -1,6 +1,6 @@
 {
   "name": "generator-hellsing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A micro-framework for graphical JavaScript apps",
   "files": [
     "app",
@@ -13,5 +13,6 @@
     "yeoman-generator": "^0.18.10"
   },
   "author": "Joshua K. Farrar <joshua@sent1nel.me>",
+  "repository": "sent1nel/generator-hellsing",
   "license": "MIT"
 }
